@@ -1,8 +1,8 @@
 :root {
-    --primeira-cor: aquamarine;
-    --segunda-cor: rgb(206, 255, 239);
-    --terceira-cor: rgb(172, 127, 255);
-    --quarta-cor: rgb(88, 86, 86);
+    --primeira-cor: rgb(129, 127, 255);
+    --segunda-cor: rgb(217, 255, 0);
+    --terceira-cor: rgb(136, 127, 255);
+    --quarta-cor: rgb(0, 0, 0);
 }
 
 * {
@@ -22,7 +22,7 @@ body {
 
 header {
     display: flex;
-
+.main_banner.
     width: calc(100vw - 32px);
     height: 120px;
 
@@ -55,7 +55,7 @@ header {
 
 nav {
     display: flex;
-    width: max-content;
+    width: max-content;hians-e-avisado%2F
     height: 120px;
 
     align-items: center;
